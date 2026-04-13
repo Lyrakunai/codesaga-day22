@@ -13,6 +13,7 @@
 - ---
 ## 💻 Practice code:
 see day22_range_loops.py
+see day22_challenges.py
 ---
 ## Status:
 Completed day 22 successfully✅
